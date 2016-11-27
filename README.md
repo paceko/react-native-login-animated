@@ -1,16 +1,15 @@
 # Animated Authentication App
-This app use `Animated` for animation transition from other `Scence`, it's easy and build fast. You should learn it.
-> Simple, clean, easy learn
+This app uses `Animated` for animation transition from other `Scence`, it's easy and fast to build. You should learn it.
+> Simple, clean and easy to learn.
 
-Demo and click on image if you want view [video](https://youtu.be/rWWZENNhh6M):
+Demo and click on the image if you want to view [video](https://youtu.be/rWWZENNhh6M):
 
 [![Image](https://cloud.githubusercontent.com/assets/4653102/20638502/83c8713e-b3db-11e6-9814-0c062ffbc675.gif)](https://youtu.be/rWWZENNhh6M)
 
 # Design Tools
-A long time, I design prototype in photoshop, it's helpful, but i have problems when convert from psd to App, it's not hard, but it spent many 
-time of me. And i don't t know create animation in photoshop.
+A long time ago I designed a prototype in Photoshop, which was very helpful. I had problems when converting from PSD to App. It wasn't difficult but it took me a long time and I didn't know how to create animation in Photoshop.
 
-2 days ago, I found Sketch, and try it. After try it, bye bye photoshop.😭
+I found the Sketch app 2 days ago and gave it a try. Amazing, no more Photoshop for me.😭
 
 **Sketch**, my new friend in design tools. I had learned 2 days ago, it's amazing, easy learning, and you should learn it instead learn Photoshop
  
