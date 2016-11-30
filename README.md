@@ -11,29 +11,29 @@ A long time ago I designed a prototype in Photoshop, which was very helpful. I h
 
 I found the Sketch app 2 days ago and gave it a try. Amazing, no more Photoshop for me.😭
 
-**Sketch**, my new friend in design tools. I had learned 2 days ago, it's amazing, easy learning, and you should learn it instead learn Photoshop
+**Sketch**, is my new friend in design tools from now on. I learned it 2 days ago and it's amazing and super easy. You should give it a try too instead of Photoshop.
  
-**Flinto** convert prototype in Sketch to animation preview. Before start code in react native, you need design a transition for `Scence`, you can caculator timing duration, position easy, and you should do it, your app will be wonderful animation.
+**Flinto** converts a prototype in Sketch to an animation preview. Before you start to code in React Native, you need to design a transition for `Scence`. You can easily calculate the timing duration position. You should give it a try because your app will have a wonderful animation.
  
-**Zeplin** It help you convert from idea design to App. It's easy export image, get distance from other component, get CSS, and more, ...
+**Zeplin** helps you convert design ideas to App. It's easy to export an image, get distance from another component, get CSS, and more..
 
-You should learn it 😘
+You should learn this too 😘
 
-# Special thank
-Thank you to [Marc Andrew](https://medium.com/@marcandrew), it's tutorial design in sketch helpful with me.
+# Special thanks
+Thank you to [Marc Andrew](https://medium.com/@marcandrew), His tutorial design in sketch was very helpful to me.
 
-# Design Resoruces
-You can download prototype design from [here](https://www.dropbox.com/sh/ckvxavfpmojz2gi/AACltbx0qM8w2YSANVUvw1_ma?dl=0) (Sketch file + Flinto file + Releway Fonts)
+# Design Resources
+You can download the design prototype from [here](https://www.dropbox.com/sh/ckvxavfpmojz2gi/AACltbx0qM8w2YSANVUvw1_ma?dl=0) (Sketch file + Flinto file + Raleway Fonts)
 
 # Note
-My design on `iPhone 6 size`, if you run other iphone 5,4 or android size < 320pdi, style doesn't show good.
+My design on `iPhone 6 size`, if you run other iPhone 5,4 or android size < 320pdi, style doesn't show good.
 It run good on:
-- Iphone 6 (+)
-- Iphone 7 (+)
+- iPhone 6 (+)
+- iPhone 7 (+)
 - Android phone (768px x 1280px or larger)
 
 # Requirement
-- React native 0.38
+- React Native 0.38
 - Xcode 8.1
 
 # Installation
