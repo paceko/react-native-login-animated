@@ -7,27 +7,27 @@ Demo and click on the image if you want to view [video](https://youtu.be/rWWZENN
 [![Image](https://cloud.githubusercontent.com/assets/4653102/20638502/83c8713e-b3db-11e6-9814-0c062ffbc675.gif)](https://youtu.be/rWWZENNhh6M)
 
 # Design Tools
-A long time ago I designed a prototype in Photoshop, which was very helpful. I had problems when converting from PSD to App. It wasn't difficult but it took me a long time and I didn't know how to create animation in Photoshop.
+A long time ago I designed a prototype in Photoshop, which was very helpful. I had problems when converting from PSD to App. It wasn't difficult but it took me a long time and I didn't know how to create an animation in Photoshop.
 
 I found the Sketch app 2 days ago and gave it a try. Amazing, no more Photoshop for me.😭
 
-**Sketch**, is my new friend in design tools from now on. I learned it 2 days ago and it's amazing and super easy. You should give it a try too instead of Photoshop.
+**Sketch**, is my new best friend when it comes to design tools. I learned it 2 days ago and it's incredible and super easy. You should give it a try too instead of using Photoshop.
  
-**Flinto** converts a prototype in Sketch to an animation preview. Before you start to code in React Native, you need to design a transition for `Scence`. You can easily calculate the timing duration position. You should give it a try because your app will have a wonderful animation.
+**Flinto** converts a prototype in Sketch to an animation preview. Before you start to code in React Native, you need to design a transition for `Scence`. You can easily calculate the timing duration position. You should give it a try because your app will be beautifully animated.
  
 **Zeplin** helps you convert design ideas to App. It's easy to export an image, get distance from another component, get CSS, and more..
 
 You should learn this too 😘
 
-# Special thanks
-Thank you to [Marc Andrew](https://medium.com/@marcandrew), His tutorial design in sketch was very helpful to me.
+# Special thanks to
+[Marc Andrew](https://medium.com/@marcandrew). His design tutorial in Sketch was very helpful to me.
 
 # Design Resources
 You can download the design prototype from [here](https://www.dropbox.com/sh/ckvxavfpmojz2gi/AACltbx0qM8w2YSANVUvw1_ma?dl=0) (Sketch file + Flinto file + Raleway Fonts)
 
 # Note
-My design on `iPhone 6 size`, if you run other iPhone 5,4 or android size < 320pdi, style doesn't show good.
-It run good on:
+My design on the `iPhone 6 size`, if you run other iPhone 5.4 or android size < 320pdi, style doesn't show good.
+It runs good on:
 - iPhone 6 (+)
 - iPhone 7 (+)
 - Android phone (768px x 1280px or larger)
